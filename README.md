@@ -1,2 +1,2 @@
 # Games
-Các khoá games
+Lập trình game cơ bản
